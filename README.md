@@ -5,7 +5,7 @@ By Anshuman Sinha (anshs@gatech.edu)/ (sinha.anshuman16@gmail.com)
 
 Re-creation of original GTN paper code in tensorflow
 
-DBLP dataset.
+DBLP dataset. Download datasets (DBLP, ACM, IMDB) from this link <https://drive.google.com/file/d/1qOZ3QjqWMIIvWjzrIdRe3EA4iKzPi6S5/view>  and extract data.zip into data folder.
 
 `! mkdir data`
 
