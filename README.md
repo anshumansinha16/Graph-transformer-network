@@ -1,5 +1,5 @@
 # Graph-transformer-network
-An adaption of GTN's Pytorch model.
+An adaption of GTN's Pytorch model by Seongjun et. al.
 
 By Anshuman Sinha (anshs@gatech.edu)/ (sinha.anshuman16@gmail.com)
 
